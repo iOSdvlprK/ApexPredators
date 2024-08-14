@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D800FD192C6CEBCA000EA317 /* PredatorMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = D800FD182C6CEBCA000EA317 /* PredatorMap.swift */; };
 		D88F0B142C6655E1007D4BB6 /* PredatorDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = D88F0B132C6655E1007D4BB6 /* PredatorDetail.swift */; };
 		D8B37F682C5FADBF00D8C6EC /* ApexPredatorsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B37F672C5FADBF00D8C6EC /* ApexPredatorsApp.swift */; };
 		D8B37F6A2C5FADBF00D8C6EC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B37F692C5FADBF00D8C6EC /* ContentView.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D800FD182C6CEBCA000EA317 /* PredatorMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredatorMap.swift; sourceTree = "<group>"; };
 		D88F0B132C6655E1007D4BB6 /* PredatorDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredatorDetail.swift; sourceTree = "<group>"; };
 		D8B37F642C5FADBF00D8C6EC /* ApexPredators.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ApexPredators.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8B37F672C5FADBF00D8C6EC /* ApexPredatorsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApexPredatorsApp.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				D8B37F672C5FADBF00D8C6EC /* ApexPredatorsApp.swift */,
 				D8B37F692C5FADBF00D8C6EC /* ContentView.swift */,
 				D88F0B132C6655E1007D4BB6 /* PredatorDetail.swift */,
+				D800FD182C6CEBCA000EA317 /* PredatorMap.swift */,
 				D8B37F772C5FB62400D8C6EC /* ApexPredator.swift */,
 				D8B4E6672C60FF850046BC66 /* Predators.swift */,
 				D8B37F752C5FAEFB00D8C6EC /* jpapexpredators.json */,
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D8B37F782C5FB62400D8C6EC /* ApexPredator.swift in Sources */,
+				D800FD192C6CEBCA000EA317 /* PredatorMap.swift in Sources */,
 				D8B37F6A2C5FADBF00D8C6EC /* ContentView.swift in Sources */,
 				D88F0B142C6655E1007D4BB6 /* PredatorDetail.swift in Sources */,
 				D8B4E6682C60FF850046BC66 /* Predators.swift in Sources */,
